@@ -6,9 +6,7 @@ The first edition, will summarize all changes since version 0.17.
 ## General
 
 - Bumped minimum Qt version to 0.17. (Begone wierd issues that happen with older Qt versions); Thanks @luis-pereira and @adjamhub..
-- Updated translations. Many thanks to the translators: - Slovak- @Leifdin;
-
-                                                        - French- @benito702
+- Updated translations. Many thanks to the translators: - Slovak- @Leifdin; - French- @benito702
 
                                                         
 
